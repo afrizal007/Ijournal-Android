@@ -21,4 +21,4 @@ Secondary School In Pekalongan Regency Based Android and WEB</i>
 <img src="https://user-images.githubusercontent.com/30565150/38074473-097a83b4-3359-11e8-9985-4cf0e943743e.png" width="20%" height="20%"> <img src="https://user-images.githubusercontent.com/30565150/38074477-0f2979f0-3359-11e8-8edb-96ffb900002b.png" width="20%" height="20%"> <img src="https://user-images.githubusercontent.com/30565150/38074487-138b58ec-3359-11e8-85c4-baee8b073d10.png" width="20%" height="20%">
 
 ## Website
-<a href="http://erikwibo.esy.es">iJournal<a/>
+<a href="http://erikwibo.esy.es" target="_blank">iJournal<a/>
