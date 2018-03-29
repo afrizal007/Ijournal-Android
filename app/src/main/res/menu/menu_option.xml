@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:actionViewClass="android.support.v7.widget.">
+    <item
+        android:id="@+id/masukan"
+        android:title="Masukan"
+        android:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/bantuan"
+        android:title="Bantuan"
+        android:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/tentang"
+        android:title="Tentang"
+        android:showAsAction="never">
+    </item>
+
+</menu>
+
+
+    <!--Penjelasan:-->
+    <!--Tag <menu> digunakan untuk menampilkan menu pada android didalam tag menu -->
+    <!--dapat menambahkan tag <item> yang berfungsi untuk menambahkan option menu.-->
+
+    <!--Atribut android:showAsAction ini menunjukkan bahwa item/option tersebut -->
+    <!--ditampilkan di Action Bar atau tidak. Terdapat 3 jenis pengaturan. -->
+    <!--Yang pertama, seperti contoh diatas yaitu “never”. Ini berarti bawah -->
+    <!--option/item tidak akan ditampilkan di Action Bar. Yang kedua bisa -->
+    <!--menggunakan “ifRoom”. ifRoom berarti item akan ditampilkan -->
+    <!--di Action Bar selama masih ada space yang kosong. Yang ketika menggunakan -->
+    <!--“always”, ini akan selalu menampilkan option/item pada Action Bar.-->

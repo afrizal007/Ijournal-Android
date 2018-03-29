@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">iJournal</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Mudah</string>
+    <string name="slide_1_desc">Sekarang kamu bisa melihat jurnal PPDB di manapun dan kapanpun</string>
+
+    <string name="slide_2_title">Cepat</string>
+    <string name="slide_2_desc">Informasi yang kamu dapatkan lebih cepat dan selalu up to date</string>
+
+    <string name="slide_3_title">Mobilitas</string>
+    <string name="slide_3_desc">Kamu tidak perlu bolak-balik ke SMA lagi</string>
+
+    <string name="slide_4_title">Sekali klik</string>
+    <string name="slide_4_desc">Informasi sekali klik dari smartphone kamu</string>
+
+    <string name="play_again_desc">Untuk melihat layar introslider, pergi Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="item">Item</string>
+    <string name="refresh">Periksa keneksi internet anda kemudian tarik ke bawah untuk memperbarui</string>
+    <string name="masukan">Masukkan</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="detail_bantuan">
+        Pada halaman Data Sekolah, ditamplikan data-data sekolah, menu pencarian dan menu pilihan untuk ke tampilan Masukan, Bantuan dan Tentang Aplikasi.\n\n
+        Jika data sekolah tidak muncul, silahkan periksa koneksi internet kamu.\n\n
+        Tarik ke bawah pada tampilan data sekolah untuk memperbarui data sekolah.\n\n
+        Klik menu pencarian dan ketikkan nama sekolah untuk mencari sekolah yang kamu cari.\n\n
+        Data sekolah diurutkan berdasarkan nilai rata-rata tertinggi.\n\n
+        Klik salah satu sekolah untuk melihat detail data sekolah.\n\n
+        Untuk melihat data siswa tekan tombol Lihat Jurnal yang kemudian akan dibawa ke tampilan siswa.\n\n
+        Pada tampilan siswa ditampilkan peringkat, nomor pendaftaran, nama siswa dan jumlah nilai UN.\n\n
+        Data siswa diurutkan berdasarkan nilai tertinggi.\n\n
+        Tarik ke bawah pada tampilan data siswa untuk memperbarui data siswa.\n\n
+        Klik menu pencarian dan ketikkan nama siswa untuk menemnukan nama siswa yang kamu cari.\n\n
+        Untuk informasi lebih lanjut, silahkan kunjungi :\n
+    </string>
+    <string name="tentang">Tentang</string>
+    <string name="tentang_aplikasi">Versi v.1.0</string>
+    <string name="detail_tentang_aplikasi">
+        Aplikasi Informasi Pengumuman (Jurnal) Penerimaan Peserta Didik Baru  Sekolah Menengah Di Kabupaten Pekalongan Berbasis Android dan WEB.\n\n
+        Thanks to :\n\n
+        - Allah SWT\n
+        - Project Manager\n
+        - Dosen Pembimbing\n
+        - Teman-teman Mahasiswa\n
+    </string>
+    <string name="bantu_kami">Bantu kami menyempurnakan aplikasi ini.</string>
+    <string name="title_activity_detail2_sekolah">Detail2Sekolah</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_jurnal">Jurnal</string>
+    <string name="webiste">http://ijournal.com</string>
+
+</resources>
